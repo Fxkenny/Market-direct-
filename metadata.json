@@ -1,0 +1,6 @@
+{
+  "name": "PriceMarket NG",
+  "description": "Nigeria's Real-Time Food Price Tracker. Track daily commodity prices across Lagos markets, compare cheapest markets, report market prices, and set alerts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
